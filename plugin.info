@@ -1,0 +1,12 @@
+{
+    "author": "oflg",
+    "core-version": ">=5.2.3",
+    "dependents": "$:/plugins/tidme/fsrs4tw $:/plugins/Gk0Wk/echarts $:/plugins/Gk0Wk/focused-tiddler",
+    "description": "Stats for Tidme",
+    "list": "readme license",
+    "name": "Tidme Stats",
+    "plugin-type": "plugin",
+    "source": "https://github.com/oflg/Tidme",
+    "title": "$:/plugins/tidme/stats",
+    "version": "1.0.0"
+}
