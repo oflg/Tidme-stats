@@ -8,5 +8,5 @@
     "plugin-type": "plugin",
     "source": "https://github.com/oflg/Tidme",
     "title": "$:/plugins/tidme/stats",
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
